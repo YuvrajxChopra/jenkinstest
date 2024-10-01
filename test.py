@@ -1,2 +1,2 @@
 x = 1
-print(z)
+print(a)
